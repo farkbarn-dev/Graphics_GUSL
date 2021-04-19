@@ -1,2 +1,2 @@
 # Graphics_GUSL
-Gráficos de GUSL
+Repositorio inicial de los elementos gráficos para GUSL
